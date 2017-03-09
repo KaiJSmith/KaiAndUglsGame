@@ -1,0 +1,16 @@
+You are one of 7 gods.
+The other 6 gods are:
+- Ruler of the Gods (Final Boss)
+- Ruler of the spirit world. (Friend - Hates Ruler of Gods)
+- ... undergod
+- ... undergod
+- ... undergod
+- ... undergod
+
+Your name is: (User input).
+
+Storyline. You are one of 7 gods, ruling over the universe. The other 6 gods, decide that humanity is too much of threat and they must be exterminated. They have not 
+been on earth as much as you, and do not have the same understanding of human kind that you do. They have made their decison, and because you are fighting their decision,
+you are banished to earth, to meet the same fate they hold. You start out with ragged-clothing, no weapon, having to fight through waves of god-spawn that they send after
+you to do their bidding. After making your way through god-spawn, to a nearby major city, where you spot an undergod sitting on a mountain, surveying the destruction his
+god-spawn are doing. 
